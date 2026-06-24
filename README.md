@@ -28,3 +28,4 @@ pip install -r requirements.txt
 
 ## Database Structure
 Saved images are the 21-point skeletal structures of your hand, not the distracting real-world pixel data. This structured format heavily decreases variability during training datasets!
+Download the sign_model.h5 file from the repository's Releases page and place it in their project directory.
